@@ -1,3 +1,5 @@
+Raspberry Pi Pico : https://amzn.to/41P4ZYQ (Amazon)
+
 ## Welcome to the Yes We CAN repository
 
 This repository contains tools and resources for the <b>Yes We CAN</b> project of [Canis Labs](https://canislabs.com). There are several related projects here:
